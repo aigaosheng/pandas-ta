@@ -1,6 +1,7 @@
 LICENSE
 README.md
 pyproject.toml
+setup.cfg
 src/pandas_ta/__init__.py
 src/pandas_ta/__main__.py
 src/pandas_ta/_typing.py

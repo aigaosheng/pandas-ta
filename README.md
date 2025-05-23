@@ -35,4 +35,11 @@ A popular and comprehensive Technical Analysis Library in Python 3 that leverage
 
 <br>
 
+## Install
+```
+# Python >= 3.12
+git clone https://github.com/aigaosheng/pandas-ta.git
+uv pip install ./pandas-ta
+```
+
 [License](https://www.pandas-ta.dev/legal/license/) - Copyright © 2025 - Pandas TA
